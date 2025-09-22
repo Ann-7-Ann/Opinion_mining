@@ -1,0 +1,41 @@
+Review 1:
+[('vibes are so welcoming', 'neutral'), ('everything is clean', '+'), ('food is different', 'neutral'), ('different day', 'neutral'), ('vegan/vegetarian options', 'neutral'), ('only downside', 'neutral'), ('uni student', 'neutral')]
+Review 2:
+[('Daily menu', 'neutral'), ('main dish', 'neutral'), ('quality is fine', '+')]
+Review 3:
+[('recent years', 'neutral')]
+Review 4:
+[('Good food', '+'), ('affordable prices', '+')]
+Review 5:
+[('same dishes', 'neutral')]
+Review 6:
+[('good warm', '+'), ('very reasonable price', 'neutral'), ('reasonable price', 'neutral')]
+Review 7:
+[('Food are fine', '+'), ('Good place', '+')]
+Review 8:
+[('Food is good', '+'), ('prices are slightly exaggerated', 'neutral'), ('quite good experience', '+'), ('good experience', '+'), ('whole year', 'neutral')]
+Review 9:
+[('food was not bad', '+'), ('average university', 'neutral')]
+Review 10:
+[]
+Review 11:
+[('Food is great', '+')]
+Review 12:
+[('delicious food', 'neutral')]
+Review 13:
+[]
+Review 14:
+[('just single layer', 'neutral'), ('single layer', 'neutral')]
+Review 15:
+[('small amount', 'neutral'), ('main course', 'neutral'), ('wide variety', 'neutral')]
+Review 16:
+[('large crowds', 'neutral'), ('quality is consistently high', 'neutral'), ('just few weeks', 'neutral'), ('few weeks', 'neutral')]
+Review 17:
+[('Affordable food', '+')]
+Review 18:
+[('goulash was sensationally good', '+'), ('new management', 'neutral'), ('TOP-notch food', '+')]
+Review 19:
+[('Staff is very friendly', 'neutral'), ('Healthy dishes', 'neutral'), ('options are usually great', '+'), ('small desserts', 'neutral'), ('various yogurts', 'neutral'), ('counter is quite narrow', 'neutral')]
+Review 20:
+[('Solid food', '+'), ('reasonable price', 'neutral'), ('more variety', 'neutral'), ('several weeks', '-')]
+
